@@ -14,7 +14,7 @@ Assign all your tasks:
 Review your task list regularly to minimize the number of not assigned tasks.
 If something is too complex, create a project to manage it. Multiple tasks can be added under the project.
 
-[![](./pic/pic1.png)](./pic/pic1.png)
-[![](./pic/pic2.png)](./pic/pic2.png)
-[![](./pic/pic3.png)](./pic/pic3.png)
-[![](./pic/pic4.png)](./pic/pic4.png)
+[![](./pic/pic1_small.png)](./pic/pic1_small.png)
+[![](./pic/pic2_small.png)](./pic/pic2_small.png)
+[![](./pic/pic3_small.png)](./pic/pic3_small.png)
+[![](./pic/pic4_small.png)](./pic/pic4_small.png)
